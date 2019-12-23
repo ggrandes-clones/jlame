@@ -1,0 +1,12 @@
+AppName = JLame
+BtnLoad = Загрузить Конфигурацию
+BtnSave = Сохранить Конфигурацию
+BtnStart = Старт
+JOptionPane.TitleConfirm = Подтверждение
+JOptionPane.TitleInfo = Информация
+JOptionPane.TitleSaveConfirm = Сохранить как
+LblInput = Строка ввода (пути без пробелов)
+LblConsole = Вывод консоли
+MsgError = Произошла ошибка. Продолжить?
+MsgErrorTitle = Ошибка
+MsgFileExists = Такой файл уже существует\nПерезаписать?

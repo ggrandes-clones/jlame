@@ -1,0 +1,3 @@
+OptionPane.yesButtonText = Да
+OptionPane.noButtonText = Нет
+OptionPane.cancelButtonText = Отмена

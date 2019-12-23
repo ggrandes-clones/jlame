@@ -1,0 +1,12 @@
+AppName = JLame
+BtnLoad = Load Config
+BtnSave = Save Config
+BtnStart = Start
+JOptionPane.TitleConfirm = Confirm
+JOptionPane.TitleInfo = Information
+JOptionPane.TitleSaveConfirm = Save As
+LblInput = Input (pathes without spaces)
+LblConsole = Console Ouput
+MsgError = An Error occurred. Continue?
+MsgErrorTitle = Error
+MsgFileExists = The given file does already exists\nWould you like to replace it?
